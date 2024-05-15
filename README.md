@@ -7,8 +7,6 @@ Xây dựng Hệ thống Phân tích Dựa trên Khía cạnh Cảm xúc (ABSA) 
 
 GVHD: Đỗ Trọng Hợp - hopdt@uit.edu.vn
 
-[**Link báo cáo**](https://drive.google.com/file/d/1EobE6_0eigrZx1jOUPNROCu3CbnRLIvR/view?usp=sharing)
-
 ![System overall](./images/overall.png)
 ![Web](./images/web.png)
 
